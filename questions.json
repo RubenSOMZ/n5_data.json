@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "type": "blank", 
+      "question": "私[わたし]は 毎朝[まいあさ] パン_____ 食[た]べます。",
+      "options": ["を", "が", "に", "へ"],
+      "correct": 0,
+      "explanation": "Se usa la partícula 'を' para marcar el objeto directo (pan)."
+    },
+    {
+      "id": "q2",
+      "type": "star",
+      "question": "机[つくえ]の _____ _____ __★__ _____ あります。",
+      "options": ["に", "上[うえ]", "本[ほん]", "が"],
+      "correct_order": ["上", "に", "本", "が"],
+      "correct": 2,
+      "explanation": "La frase completa es: 机の上に本があります (Sobre la mesa hay un libro)."
+    },
+    {
+      "id": "q3",
+      "type": "blank",
+      "question": "昨日[きのう] どこ_____ 行[い]きましたか。",
+      "options": ["も", "へ", "が", "と"],
+      "correct": 1,
+      "explanation": "La partícula 'へ' indica dirección de movimiento."
+    }
+  ]
+}
