@@ -1,29 +1,24 @@
 {
   "questions": [
-    {
-      "id": "q1",
-      "type": "blank", 
-      "question": "私[わたし]は 毎朝[まいあさ] パン_____ 食[た]べます。",
-      "options": ["を", "が", "に", "へ"],
-      "correct": 0,
-      "explanation": "Se usa la partícula 'を' para marcar el objeto directo (pan)."
-    },
-    {
-      "id": "q2",
-      "type": "star",
-      "question": "机[つくえ]の _____ _____ __★__ _____ あります。",
-      "options": ["に", "上[うえ]", "本[ほん]", "が"],
-      "correct_order": ["上", "に", "本", "が"],
-      "correct": 2,
-      "explanation": "La frase completa es: 机の上に本があります (Sobre la mesa hay un libro)."
-    },
-    {
-      "id": "q3",
-      "type": "blank",
-      "question": "昨日[きのう] どこ_____ 行[い]きましたか。",
-      "options": ["も", "へ", "が", "と"],
-      "correct": 1,
-      "explanation": "La partícula 'へ' indica dirección de movimiento."
-    }
+    { "id": "q1", "question": "私[わたし]は 毎朝[まいあさ] パン_____ 食[た]べます。", "options": ["を", "が", "に", "で"], "correct": 0, "explanation": "Marcador de objeto directo (S + を + O)." },
+    { "id": "q2", "question": "あした 学校[がっこう]_____ 行[い]きます。", "options": ["を", "に", "は", "と"], "correct": 1, "explanation": "Indica destino o dirección (Lugar + に + 行きます)." },
+    { "id": "q3", "question": "この 本[ほん]_____ おもしろいです。", "options": ["は", "を", "に", "へ"], "correct": 0, "explanation": "Marcador de tema (S + は + ADJ)." },
+    { "id": "q4", "question": "庭[にわ]に 犬[いぬ]_____ います。", "options": ["は", "を", "が", "に"], "correct": 2, "explanation": "Marcador de sujeto para existencia (S + が + います)." },
+    { "id": "q5", "question": "昨日[きのう] レストラン_____ 食[た]べました。", "options": ["に", "で", "を", "へ"], "correct": 1, "explanation": "Lugar donde ocurre una acción (Lugar + で + Acción)." },
+    { "id": "q6", "question": "すみません、水[みず]_____ ください。", "options": ["を", "が", "は", "に"], "correct": 0, "explanation": "Pedir un objeto (S + を + ください)." },
+    { "id": "q7", "question": "九時[くじ]_____ 十時[じゅうじ]まで 勉強[べんきょう]します。", "options": ["から", "まで", "に", "へ"], "correct": 0, "explanation": "Significa 'desde' (Tiempo + から)." },
+    { "id": "q8", "question": "デパートへ 靴[くつ]を 買[か]い_____ 行[い]きます。", "options": ["に", "を", "で", "は"], "correct": 0, "explanation": "Propósito del movimiento (O-stem + に + 行きます)." },
+    { "id": "q9", "question": "田中[たなか]さんは どこ_____ いますか。", "options": ["を", "が", "に", "は"], "correct": 2, "explanation": "Lugar de existencia (Lugar + に + います)." },
+    { "id": "q10", "question": "一緒[いっしょ]に 映画[えいが]を 見[み]_____。", "options": ["ましょう", "ます", "ません", "ました"], "correct": 0, "explanation": "Invitación (Raíz O + ましょう)." },
+    { "id": "q11", "question": "これ_____ 私[わたし]の 傘[かさ]です。", "options": ["は", "を", "に", "が"], "correct": 0, "explanation": "Marcador de tema." },
+    { "id": "q12", "question": "タクシー_____ 帰[かえ]りました。", "options": ["に", "を", "で", "へ"], "correct": 2, "explanation": "Medio de transporte (Medio + で)." },
+    { "id": "q13", "question": "テニス_____ 好[す]きです。", "options": ["を", "が", "は", "に"], "correct": 1, "explanation": "Gustar algo (S + が + 好き)." },
+    { "id": "q14", "question": "弟[おとうと]は 背[せ]_____ 高[たか]いです。", "options": ["を", "が", "に", "は"], "correct": 1, "explanation": "Describir una característica del sujeto (S + が + ADJ)." },
+    { "id": "q15", "question": "日本[にほん]料理[りょうり]_____ 食[た]べたことが あります。", "options": ["を", "が", "に", "は"], "correct": 0, "explanation": "Objeto directo para experiencia." },
+    { "id": "q16", "question": "テレビを 見[み]_____ 勉強[べんきょう]します。", "options": ["ながら", "まえに", "とき", "から"], "correct": 0, "explanation": "Acciones simultáneas (O-stem + ながら)." },
+    { "id": "q17", "question": "コーヒー_____ お茶[ちゃ]、どちらが 好きですか。", "options": ["と", "を", "に", "は"], "correct": 0, "explanation": "Elección entre dos (S1 + と + S2)." },
+    { "id": "q18", "question": "暑[あつ]い_____ 窓[まど]を 開[あ]けてください。", "options": ["から", "ので", "のに", "とき"], "correct": 0, "explanation": "Indica razón (ADJ + から)." },
+    { "id": "q19", "question": "あの 店[みせ]は _____ です。", "options": ["有名[ゆうめい]", "有名[ゆうめい]な", "有名[ゆうめい]に", "有名[ゆうめい]だ"], "correct": 0, "explanation": "Adjetivo na en presente cortés." },
+    { "id": "q20", "question": "ここへ 入[はい]って_____ いけません。", "options": ["は", "を", "が", "に"], "correct": 0, "explanation": "Prohibición (O-te + はいけません)." }
   ]
 }
