@@ -39,7 +39,7 @@
     { "id": "s37", "jp_parts": "明日[あした]は 晴[は]れる でしょう。", "es": "Mañana probablemente despeje." },
     { "id": "s38", "jp_parts": "仕事[しごと]が 終[お]わって から 帰[かえ]ります。", "es": "Volveré después de terminar el trabajo." },
     { "id": "s39", "jp_parts": "どちらが あなたの 傘[かさ] ですか。", "es": "¿Cuál de estos es tu paraguas?" },
-    { "id": "s40", "jp_parts": "日本[にほん]料理[りょうり]が 食べたい です。", "es": "Quiero comer comida japonesa." }
+    { "id": "s40", "jp_parts": "日本[にほん]料理[りょうり]が 食べたい です。", "es": "Quiero comer comida japonesa." },
     { "id": "s41", "question": "La frase es: 昨日の夜本を読みました。", "jp_parts": "昨日[きのう]の 夜[よる] 本[ほん]を 読[よ]みました。", "es": "Anoche leí un libro.", "explanation": "S + の + Tiempo + Objeto + O." },
     { "id": "s42", "question": "La frase es: 庭に白い猫がいます。", "jp_parts": "庭[にわ]に 白[しろ]い 猫[ねこ]が います。", "es": "En el jardín hay un gato blanco.", "explanation": "Lugar + ADJ + S + が + います." },
     { "id": "s43", "question": "La frase es: 日本語の勉強は楽しいです。", "jp_parts": "日本語[にほんご]の 勉強[べんきょう]は 楽[たの]しい です。", "es": "Estudiar japonés es divertido.", "explanation": "S1 + の + S2 + は + ADJ." },
