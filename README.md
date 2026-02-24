@@ -2,14 +2,19 @@
   "grammar": [
     {
       "id": "1",
-      "title": "あそこ (Asoko)",
-      "formula": "[Noun] + は + あそこ + です",
-      "description": "Over there (far from both speaker and listener)",
-      "examples": [
-        { "jp": "トイレはあそこです。", "es": "El baño está allí (lejos)." },
-        { "jp": "あそこは学校です。", "es": "Aquello de allí es una escuela." }
-      ]
+      "title": "は (wa)",
+      "formula": "Sustantivo + は",
+      "description": "Indica el tema de la oración.",
+      "examples": [{ "jp": "私は田中です。", "es": "Yo soy Tanaka." }]
     }
   ],
-  "questions": [...]
+  "questions": [
+    {
+      "id": "q1",
+      "question": "私は学生_____です。",
+      "options": ["は", "を", "に", "へ"],
+      "correct": 0,
+      "explanation": "Usamos 'wa' para el tema."
+    }
+  ]
 }
