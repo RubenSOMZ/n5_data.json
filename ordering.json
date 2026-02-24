@@ -1,0 +1,24 @@
+{
+  "sentences": [
+    { "id": "s1", "question": "La frase es: 昨日の夜本を読みました。", "jp_parts": "昨日[きのう]の 夜[よる] 本[ほん]を 読[よ]みました。", "es": "Anoche leí un libro.", "explanation": "S + の + Tiempo + Objeto + O." },
+    { "id": "s2", "question": "La frase es: 庭に白い猫がいます。", "jp_parts": "庭[にわ]に 白[しろ]い 猫[ねこ]が います。", "es": "En el jardín hay un gato blanco.", "explanation": "Lugar + ADJ + S + が + います." },
+    { "id": "s3", "question": "La frase es: 日本語の勉強は楽しいです。", "jp_parts": "日本語[にほんご]の 勉強[べんきょう]は 楽[たの]しい です。", "es": "Estudiar japonés es divertido.", "explanation": "S1 + の + S2 + は + ADJ." },
+    { "id": "s4", "question": "La frase es: 冷蔵庫の中に卵があります。", "jp_parts": "冷蔵庫[れいぞうこ]の 中[なか]に 卵[たまご]が あります。", "es": "Hay huevos dentro de la nevera.", "explanation": "S + の + Lugar + に + S + あります." },
+    { "id": "s5", "question": "La frase es: 明日友達とデパートへ行きます。", "jp_parts": "明日[あした] 友達[ともだち]と デパートへ 行[い]きます。", "es": "Mañana iré al centro comercial con un amigo.", "explanation": "Tiempo + Compañía + Destino + O." },
+    { "id": "s6", "question": "La frase es: この料理はとても美味しいです。", "jp_parts": "この 料理[りょうり]は とても 美味[おい]しい です。", "es": "Esta comida es muy rica.", "explanation": "Pronombre + S + ADV + ADJ." },
+    { "id": "s7", "question": "La frase es: 毎日八時に起きます。", "jp_parts": "毎日[まいにち] 八時[はちじ]に 起[お]きます。", "es": "Me levanto cada día a las ocho.", "explanation": "Frecuencia + Tiempo + O." },
+    { "id": "s8", "question": "La frase es: 公園で写真を撮りました。", "jp_parts": "公園[こうえん]で 写真[しゃしん]を 撮[と]りました。", "es": "Hice una foto en el parque.", "explanation": "Lugar + de + Acción + O." },
+    { "id": "s9", "question": "La frase es: お酒を飲みすぎました。", "jp_parts": "お酒[さけ]を 飲[の]み すぎました。", "es": "Bebí demasiado alcohol.", "explanation": "Objeto + O-stem + sugiru." },
+    { "id": "s10", "question": "La frase es: 日本語を話すことができます。", "jp_parts": "日本語[にほんご]を 話[はな]す ことが できます。", "es": "Puedo hablar japonés.", "explanation": "O-dic + koto + ga dekiru." },
+    { "id": "s11", "question": "La frase es: 昨日は雨が降っていました。", "jp_parts": "昨日[きのう]は 雨[あめ]が 降[ふ]って いました。", "es": "Ayer estaba lloviendo.", "explanation": "Tiempo + Sujeto + O-te iru (pasado)." },
+    { "id": "s12", "question": "La frase es: ここに名前を書いてください。", "jp_parts": "ここへ 名前[なまえ]を 書[か]いて ください。", "es": "Escriba su nombre aquí, por favor.", "explanation": "Lugar + Objeto + O-te kudasai." },
+    { "id": "s13", "question": "La frase es: 漢字の書き方を教えてください。", "jp_parts": "漢字[かんじ]の 書[か]き方[かた]を 教[お]しえて ください。", "es": "Enséñame cómo se escriben los kanji.", "explanation": "S + の + O-stem + kata." },
+    { "id": "s14", "question": "La frase es: 暑いから窓を開けます。", "jp_parts": "暑[あつ]い から 窓[まど]を 開[あ]けます。", "es": "Abro la ventana porque hace calor.", "explanation": "ADJ + kara (razón) + O." },
+    { "id": "s15", "question": "La frase es: 勉強したあとで寝ました。", "jp_parts": "勉強[べんきょう]した あとで 寝[ね]ました。", "es": "Dormí después de estudiar.", "explanation": "O-ta + ato de (secuencia)." },
+    { "id": "s16", "question": "La frase es: 部屋をきれいにしました。", "jp_parts": "部屋[へや]を きれいに しました。", "es": "He limpiado la habitación.", "explanation": "Objeto + ADJ-na + ni suru." },
+    { "id": "s17", "question": "La frase es: 今日は暇ではありません。", "jp_parts": "今日[きょう]は 暇[ひま]では ありません。", "es": "Hoy no estoy libre.", "explanation": "Tema + ADJ-na (negativo)." },
+    { "id": "s18", "question": "La frase es: 駅の近くにあります。", "jp_parts": "駅[えき]の 近く[ちかく]に あります。", "es": "Está cerca de la estación.", "explanation": "S + no + chika + ni + arimasu." },
+    { "id": "s19", "question": "La frase es: どちらが美味しいですか。", "jp_parts": "どちらが 美味[おい]しい ですか。", "es": "¿Cuál es más rico?", "explanation": "Interrogativo + が + ADJ." },
+    { "id": "s20", "question": "La frase es: 日本へ行くつもりです。", "jp_parts": "日本[にほん]へ 行[い]く つもり です。", "es": "Tengo intención de ir a Japón.", "explanation": "Lugar + O-dic + tsumori (plan)." }
+  ]
+}
