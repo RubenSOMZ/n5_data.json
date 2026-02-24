@@ -9,7 +9,7 @@
     { "id": "7", "category": "Partícula", "title": "の (no)", "formula": "N1 + の + N2", "description": "Possessive marker. Indica pertenencia o relación.", "examples": [{ "jp": "私[わたし]の 本[ほん]です。", "es": "Es mi libro." }] },
     { "id": "8", "category": "Partícula", "title": "へ (e)", "formula": "Lugar + へ", "description": "Indica dirección.", "examples": [{ "jp": "どこへ 行[い]きますか。", "es": "¿A dónde vas?" }] },
     { "id": "9", "category": "Partícula", "title": "と (to)", "formula": "N1 + と + N2", "description": "And, with. Conecta nombres o indica compañía.", "examples": [{ "jp": "パンと 卵[たまご]を 食[た]べます。", "es": "Como pan y huevo." }] },
-    { "id": "10", "category": Partícula", "title": "から (kara)", "formula": "S + から", "description": "From (lugar o tiempo) / Because.", "examples": [{ "jp": "三時[さんじ]から 始[はじ]まります。", "es": "Empieza a las tres." }] },
+    { "id": "10", "category": "Partícula", "title": "から (kara)", "formula": "S + から", "description": "From (lugar o tiempo) / Because.", "examples": [{ "jp": "三時[さんじ]から 始[はじ]まります。", "es": "Empieza a las tres." }] },
     { "id": "11", "category": "Partícula", "title": "まで (made)", "formula": "S + まで", "description": "Until, as far as.", "examples": [{ "jp": "駅[えき]まで 歩[ある]きます。", "es": "Camino hasta la estación." }] },
     { "id": "12", "category": "Verbo", "title": "です (desu)", "formula": "N + です", "description": "To be (cortés).", "examples": [{ "jp": "これ[これ]は ペンです。", "es": "Esto es un bolígrafo." }] },
     { "id": "13", "category": "Verbo", "title": "～ます (masu)", "formula": "V-stem + ます", "description": "Presente/Futuro cortés.", "examples": [{ "jp": "本[ほん]を 読[よ]みます。", "es": "Leo un libro." }] },
