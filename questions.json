@@ -39,7 +39,7 @@
     { "id": "q37", "question": "もう 宿題[しゅくだい]を _____。", "options": ["しました", "します", "している", "しません"], "correct": 0, "explanation": "Acción ya terminada (mou + Pasado)." },
     { "id": "q38", "question": "まだ 昼[ひる]ごはんを 食[た]べて_____。", "options": ["いません", "いました", "います", "した"], "correct": 0, "explanation": "Acción aún no realizada (mada + O-te imasen)." },
     { "id": "q39", "question": "どちら_____ 好[す]きですか。", "options": ["が", "を", "は", "に"], "correct": 0, "explanation": "Interrogativo de elección (ga)." },
-    { "id": "q40", "question": "この ペンは _____やすいです。", "options": ["書[か]き", "書[か]く", "書[か]いた", "書[か]いて"], "correct": 0, "explanation": "Fácil de hacer (O-stem + yasui)." }
+    { "id": "q40", "question": "この ペンは _____やすいです。", "options": ["書[か]き", "書[か]く", "書[か]いた", "書[か]いて"], "correct": 0, "explanation": "Fácil de hacer (O-stem + yasui)." },
     { "id": "q41", "question": "私[わたし]は 毎朝[まいあさ] パン_____ 食[た]べます。", "options": ["を", "が", "に", "で"], "correct": 0, "explanation": "Marcador de objeto directo (S + を + O)." },
     { "id": "q42", "question": "あした 学校[がっこう]_____ 行[い]きます。", "options": ["を", "に", "は", "と"], "correct": 1, "explanation": "Indica destino o dirección (Lugar + に + 行きます)." },
     { "id": "q43", "question": "この 本[ほん]_____ おもしろいです。", "options": ["は", "を", "に", "へ"], "correct": 0, "explanation": "Marcador de tema (S + は + ADJ)." },
